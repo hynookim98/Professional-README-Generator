@@ -1,51 +1,27 @@
-# Project One
-  ![Github-License](https://img.shields.io/badge/license-MIT-blue.svg)
+#Professional-README-Generator
 
+## Description
+Hello my name is Matthew Kim and I am a beginner programmer studying at the UCI coding Bootcamp. This readme generator was created to help lazy programming students create a professional
+'README.md' for their projects. The program will take different inputs from the user and generate a new README file in the 'final' folder; Here is a screenshot of a generated README: 
+<!-- !Enter LINK -->
+Thank you for taking the time to use and view my program
 
-  ## Description
-  Hello. My name is Matthew and this is my project, Project One. 
+## Installation 
+To install necessary dependencies use the command: 'npm i' in the terminal
+Then run 'node index.js' to start the program.
 
-  Description for project one
+## Usage
+After starting the program - it will go on to ask you questions needed to generate a README file for your project. All you need to do is answer the questions to the best of your abilities and be as descriptive as possible. 
 
-  ## Table of Contents 
+## Contact 
+If you have any questions feel free to contact me at my email *hynookim98@gmail.com*.
+For my other projects please feel free to visit my github link at: 
+https://github.com/hynookim98?tab=repositories  
+or visit my site at: 
+https://hynookim98.github.io/ 
 
-  * [Installation](#installation)
+## Credits 
+Starter code from UCI Coding Bootcamp
 
-  * [Usage](#usage)
-  
-* [License](#license)
-
-
-  * [Tests](#tests)
-
-  * [Credits](#credits)
-
-  * [Questions](#questions)
-
-  ## Installation
-  n/a
-
-  To install any necessary dependencies, run the following command: 
-  npm i
-
-  ## Usage
-
-  nothing
-
-  ## License
-
-This project is licensed under the MIT license.
-
-  ## Tests
-
-  To run tests, run the following command:
-  npm test
-
-  ## Credits
-  n/a
-
-  ## Questions
-
-  If you have any questions feel free to email me at 
-  hynookim98@gmail.com. 
-  You can find more of my work at [hynookim98](https://github.com/hynookim98/).
+## License 
+n/a
