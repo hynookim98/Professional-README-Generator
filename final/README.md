@@ -1,11 +1,11 @@
-# Project One
-  ![Github-License](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# Project-One
+  ![Github-License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
   ## Description
-  Hello. My name is Matthew Kim and this is my project, Project One. 
+  Hello. My name is Matthew Kim and this is my project, Project-One. 
 
-  Description for Project One
+  This description is created to test the program to generate a README
 
   ## Table of Contents 
 
@@ -22,18 +22,18 @@
   * [Questions](#questions)
 
   ## Installation
-  nope
+  To use the program you need to install inquirer and jest.
 
   To install any necessary dependencies, run the following command: 
   npm i
 
   ## Usage
 
-  nothing
+  To use the program you need to run "node index.js" through the terminal
 
   ## License
 
-This project is licensed under the GPL 3.0 license.
+This project is licensed under the MIT license.
 
   ## Tests
 
