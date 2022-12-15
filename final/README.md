@@ -1,11 +1,11 @@
 # Project One
-  ![Github-License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github-License](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
 
   ## Description
-  Hello. My name is Matthew and this is my project, Project One. 
+  Hello. My name is Matthew Kim and this is my project, Project One. 
 
-  Description for project one
+  Description for Project One
 
   ## Table of Contents 
 
@@ -13,8 +13,7 @@
 
   * [Usage](#usage)
   
-* [License](#license)
-
+  *  [License](#license)
 
   * [Tests](#tests)
 
@@ -23,7 +22,7 @@
   * [Questions](#questions)
 
   ## Installation
-  n/a
+  nope
 
   To install any necessary dependencies, run the following command: 
   npm i
@@ -34,7 +33,7 @@
 
   ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the GPL 3.0 license.
 
   ## Tests
 

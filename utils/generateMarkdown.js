@@ -14,7 +14,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== 'None') {
-    return `\n* [License](#license)\n`;
+    return ` [License](#license)`;
   }
   return '';
 }
@@ -33,7 +33,52 @@ This project is licensed under the ${license} license.`;
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  ${renderLicenseBadge(data.license)}
 
+  ## Description
+  Hello. My name is ${data.name} and this is my project, ${data.title}. 
+
+  ${data.description}
+
+  ## Table of Contents 
+
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+  
+  * ${renderLicenseLink(data.license)}
+
+  * [Tests](#tests)
+
+  * [Credits](#credits)
+
+  * [Questions](#questions)
+
+  ## Installation
+  ${data.install}
+
+  To install any necessary dependencies, run the following command: 
+  ${data.installation}
+
+  ## Usage
+
+  ${data.usage}
+
+  ${renderLicenseSection(data.license)}
+
+  ## Tests
+
+  To run tests, run the following command:
+  ${data.test}
+
+  ## Credits
+  ${data.credits}
+
+  ## Questions
+
+  If you have any questions feel free to email me at 
+  ${data.email}. 
+  You can find more of my work at [${data.github}](https://github.com/${data.github}/).
 `;
 }
 
